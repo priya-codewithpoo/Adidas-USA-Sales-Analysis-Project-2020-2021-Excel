@@ -1,6 +1,6 @@
 ## 📊 Adidas USA Sales Analysis Project (2020-2021)
 
-![Dashboard Preview](./2_Dasboard)
+![Dashboard Preview](./Dashboard.png)
 
 ---
 
@@ -61,4 +61,5 @@ The project is contained within a single, highly-structured Excel Workbook. To m
 ## 🏁 **Conclusion**
 
 This project demonstrates how Excel can be transformed into a powerful BI tool through structured data management. By answering high-impact questions and securing the interface, the project reflects the practical analytics work required to support executive decision-making in a retail corporate environment.
+
 
