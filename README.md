@@ -4,6 +4,9 @@
 
 ---
 
+## 💡 Project Summary
+This project uses Excel and Power Query to analyze Adidas US sales (2020–2021). Interactive dashboards and per-capita metrics reveal high-potential markets for expansion.
+
 ## 🔍 **Project Overview**
 This project demonstrates **corporate-level Excel Data Analytics** using a multi-dimensional Adidas sales dataset. The goal was to simulate a **strategic market review** by cleaning raw data and building an interactive dashboard that focuses on **actionable insights** rather than just static charts.
 
@@ -58,9 +61,21 @@ The project is contained within a single, highly-structured Excel Workbook. To m
 * **Dashboard UI/UX:** Learning how to lock charts and objects to create a foolproof tool for executives.
 
 ---
+
+## 🔮 Future Scope
+
+- Incorporate multi-year sales trends for predictive insights
+  
+- Include marketing spend data to optimize ROI
+  
+- Add store-level foot traffic to better model market potential
+
+---
+
 ## 🏁 **Conclusion**
 
 This project demonstrates how Excel can be transformed into a powerful BI tool through structured data management. By answering high-impact questions and securing the interface, the project reflects the practical analytics work required to support executive decision-making in a retail corporate environment.
+
 
 
 
