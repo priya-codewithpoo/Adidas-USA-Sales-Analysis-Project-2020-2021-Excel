@@ -5,10 +5,10 @@
 ---
 
 ## 💡 Project Summary
-This project uses Excel and Power Query to analyze Adidas US sales (2020–2021). Interactive dashboards and per-capita metrics reveal high-potential markets for expansion.
+This project uses Excel and Power Query to analyze Adidas US sales (2020–2021). Interactive dashboards and per-capita metrics help identify potential markets for expansion
 
 ## 🔍 **Project Overview**
-This project demonstrates **corporate-level Excel Data Analytics** using a multi-dimensional Adidas sales dataset. The goal was to simulate a **strategic market review** by cleaning raw data and building an interactive dashboard that focuses on **actionable insights** rather than just static charts.
+This project demonstrates **This project demonstrates hands-on Excel analytics using a multi-dimensional Adidas sales dataset. The goal was to simulate a real-world market review…** by cleaning raw data and building an interactive dashboard that focuses on **actionable insights** rather than just static charts.
 
 The project is structured to answer high-impact business questions, specifically focusing on **Target Achievement** and **Market Penetration** by merging sales data with 2024 US Population estimates.
 
@@ -18,7 +18,7 @@ The project is structured to answer high-impact business questions, specifically
 * Apply **Power Query** to automate the cleaning and merging of fragmented datasets.
 * Demonstrate advanced **Data Modeling** by connecting Sales, Population, and Target metrics.
 * Think like a **Data Analyst** by developing a "Sales Per Capita" metric to identify untapped markets.
-* Deliver a **UI/UX optimized dashboard** that is secure and user-friendly.
+* Build an interactive and user-friendly dashboard to visualize key metrics.
 
 ---
 
@@ -29,7 +29,6 @@ The project is structured to answer high-impact business questions, specifically
     * Data Cleaning & Type Transformation (ETL)
     * Table Joins & Appending
     * DAX-style Pivot Calculations
-    * Dynamic US Choropleth Mapping
     * Interactive Slicers & Timeline Filters
     * Workbook Security & Protection
 
@@ -47,35 +46,28 @@ The project is contained within a single, highly-structured Excel Workbook. To m
 ---
 
 ## 📈 **Business Insights Covered**
-* **Target vs. Actual Performance:** Tracks the $899.9M revenue against a $900M corporate goal (99.99% achievement).
-* **Market Penetration (Sales Per Capita):** Normalized sales against state population to find "cold" spots in high-population areas.
-* **Regional Profitability:** Comparison of revenue distribution across the West, Northeast, Southeast, and Midwest.
-* **Product Performance:** Identifying which categories (Apparel vs. Footwear) drive the highest margins.
-* **Sales Channel Analysis:** Comparing In-store vs. Online vs. Outlet efficiency.
+* **Target vs. Actual Performance:** Tracked $899.9M revenue against a $900M goal (99.99% achievement) to evaluate overall sales performance.
+
+* **Market Penetration (Sales Per Capita):** Normalized sales by state population to identify underperforming regions with high potential.
+
+* **Regional Revenue Analysis:** Compared revenue across West, Northeast, Southeast, and Midwest regions to highlight strong and weak markets.
+
+* **Product Category Performance:** Identified which categories (Apparel vs. Footwear) contribute most to revenue and margins.
+
+* **Sales Channel Efficiency:** Analyzed In-store, Online, and Outlet channels to determine the most effective sales methods.
 
 ---
 
 ## 🧠 **Key Learnings**
 * **Automating ETL:** Moving from manual cell edits to a "Refreshable" Power Query pipeline.
 * **Strategic Metrics:** Understanding that "Total Sales" is less important than "Sales per Capita" for expansion.
-* **Dashboard UI/UX:** Learning how to lock charts and objects to create a foolproof tool for executives.
-
----
-
-## 🔮 Future Scope
-
-- Incorporate multi-year sales trends for predictive insights
-  
-- Include marketing spend data to optimize ROI
-  
-- Add store-level foot traffic to better model market potential
+* **Dashboard:** Learning how to lock charts and objects to create a foolproof tool for executives.
 
 ---
 
 ## 🏁 **Conclusion**
 
-This project demonstrates how Excel can be transformed into a powerful BI tool through structured data management. By answering high-impact questions and securing the interface, the project reflects the practical analytics work required to support executive decision-making in a retail corporate environment.
-
+This project demonstrates how Excel can be transformed into a powerful BI tool through structured data management. By answering high-impact questions and securing the interface, This project demonstrates practical analytics work for decision-making in a retail environment.
 
 
 
